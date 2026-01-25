@@ -1,1 +1,34 @@
-fs
+pada bagian ini telah di pelajari materi dasar SQL
+source yt: https://youtu.be/4ptA6e7N0xo?si=-sC3j-yl07Pcb7xi
+
+tanggal belajar: 20 Januari - 25 Januari 2025
+
+Materi mencakup:
+- Database
+- Data Types
+- Table 
+- Insert Row 
+- Select
+- Update
+- Primary key
+- Delete 
+- Aliases
+- SQL Operator
+- Order by
+- Limit
+- Offset
+- Select Distinct
+- Aggregate Function
+- Group by
+- Having
+- Data Contstraints
+- Table Relationship
+- Jenis-jenis table Relationship
+- Join
+- Function
+- Flow Control Function
+- indexes
+- subquery
+- view
+- User Management
+- Transaction
