@@ -30,7 +30,7 @@ Tujuan:
 - Mampu melakukan analisis data langsung dari database
 - Menjawab pertanyaan bisnis berbasis data
 
-📁 Folder: `01_sql_basic/`
+📁 Folder: `Belajar_Mandiri/Belajar_SQL_Dasar`
 
 ---
 
