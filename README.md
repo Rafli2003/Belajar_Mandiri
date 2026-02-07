@@ -93,7 +93,7 @@ After mastering the basics, learning continues with case studies that will serve
 - Production efficiency analysis
 - Failure detection Machine
 
-📁 Folder: `04_industrial_case_studies/`
+📁 Folder: `Belajar_Mandiri/Project_Mandiri`
 
 ---
 
