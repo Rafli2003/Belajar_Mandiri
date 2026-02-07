@@ -1,112 +1,106 @@
-# Roadmap Belajar Data Analyst & Data Scientist
+# Data Analyst & Data Scientist Learning Roadmap
 
-Repository ini berisi dokumentasi alur belajar saya sebagai **fresh graduate S1 Informatika** yang mempersiapkan diri untuk berkarier di bidang **Data Analyst**, dengan pengembangan ke arah **Data Scientist**.
+This repository documents my learning path as a fresh Informatics graduate preparing for a career in Data Analyst, with a focus on Data Scientist.
 
-Fokus utama repository ini adalah membangun **fondasi teknis yang kuat**, memahami **kebutuhan industri**, serta mengerjakan **studi kasus nyata** yang akan dijadikan portofolio profesional.
-
----
-
-## 🎯 Tujuan
-- Menguasai skill dasar yang wajib dimiliki **Data Analyst**
-- Mempersiapkan transisi ke **Junior Data Scientist**
-- Membangun portofolio berbasis **studi kasus industri**
-- Melatih pola pikir analitis dan data-driven decision making
+The main focus of this repository is building a strong technical foundation, understanding industry needs, and working on real-world case studies to build a professional portfolio.
 
 ---
 
-## 🧠 Alur Belajar
+## 🎯 Objectives
+- Master the basic skills required for a Data Analyst
+- Prepare for the transition to Junior Data Scientist
+- Build a portfolio based on industry case studies
+- Practice analytical thinking and data-driven decision-making
 
-### 1️⃣ Belajar SQL Dasar (Data Analyst Focus)
-SQL digunakan untuk mengambil dan mengolah data dari database.
+---
 
-Materi yang dipelajari:
+## 🧠 Learning Path
+
+### 1️⃣ Learn Basic SQL (Data Analyst Focus)
+SQL is used to retrieve and process data from databases.
+
+Materials to be learned:
 - SELECT, WHERE, ORDER BY
 - JOIN (INNER, LEFT, RIGHT)
-- GROUP BY dan HAVING
-- Subquery dan CTE
-- Analisis data menggunakan query SQL
+- GROUP BY and HAVING
+- Subqueries and CTEs
+- Data analysis using SQL queries
 
-Tujuan:
-- Mampu melakukan analisis data langsung dari database
-- Menjawab pertanyaan bisnis berbasis data
+Objectives:
+- Able to perform data analysis directly from the database
+- Answer data-based business questions
 
 📁 Folder: `Belajar_Mandiri/Belajar_SQL_Dasar`
 
 ---
 
-### 2️⃣ Belajar Python Dasar (Data Analysis)
-Python digunakan untuk pengolahan data, analisis, dan visualisasi.
+### 2️⃣ Learn Basic Python (Data Analysis)
+Python is used for data processing, analysis, and visualization.
 
-Materi yang dipelajari:
-- Python dasar
-- Library data analysis (pandas, numpy)
-- Data cleaning dan preprocessing
+Materials to be learned:
+- Basic Python
+- Data analysis libraries (pandas, numpy)
+- Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
-- Visualisasi data
+- Data visualization
 
-Tujuan:
-- Mengolah dan menganalisis dataset
-- Menghasilkan insight dari data
+Objectives:
+- Processing and analyzing datasets
+- Generating insights from data
 
 📁 Folder: `02_python_basic/`
 
 ---
 
-### 3️⃣ Belajar Excel Dasar (Data Analyst Tools)
-Excel digunakan sebagai tools analisis yang umum di industri.
+### 3️⃣ Learn Basic Excel (Data Analyst Tools)
+Excel is used as a common analysis tool in the industry.
 
-Materi yang dipelajari:
-- Formula dasar (IF, SUM, COUNT)
+Materials learned:
+- Basic formulas (IF, SUM, COUNT)
 - VLOOKUP / XLOOKUP
-- Pivot Table
-- Analisis data sederhana
-- Visualisasi dasar
+- Pivot Tables
+- Simple data analysis
+- Basic visualization
 
-Tujuan:
-- Mendukung analisis data harian di lingkungan kerja
-- Memahami alur analisis data secara praktis
+Objectives:
+- Support daily data analysis in the workplace
+- Understand the practical flow of data analysis
 
 📁 Folder: `03_excel_basic/`
 
 ---
 
-## 📊 Studi Kasus & Portofolio Industri
-Setelah menguasai dasar, pembelajaran dilanjutkan dengan studi kasus yang akan dijadikan **portofolio profesional**, meliputi:
+## 📊 Case Studies & Industry Portfolio
+After mastering the basics, learning continues with case studies that will serve as a **professional portfolio**, including:
 
-- **Industri Perbankan**
-  - Analisis transaksi
-  - Customer segmentation
-  - Risiko dan fraud (simulasi)
+- **Banking Industry**
+- Transaction analysis
+- Customer segmentation
+- Risk and fraud (simulation)
 
-- **Industri Bisnis / E-Commerce**
-  - Analisis penjualan
-  - Customer churn
-  - Performa dan pertumbuhan bisnis
+- **Business / E-Commerce Industry**
+- Sales analysis
+- Customer churn
+- Business performance and growth
 
-- **Industri Kesehatan**
-  - Analisis data pasien
-  - Klasifikasi penyakit
-  - Efisiensi layanan kesehatan
+- **Healthcare Industry**
+- Patient data analysis
+- Disease classification
+- Healthcare service efficiency
 
-- **Industri Otomotif / Manufaktur**
-  - Predictive maintenance
-  - Analisis efisiensi produksi
-  - Deteksi kegagalan mesin
+- **Automotive / Manufacturing Industry**
+- Predictive maintenance
+- Production efficiency analysis
+- Failure detection Machine
 
-📁 Folder: `04_studi_kasus_industri/`
+📁 Folder: `04_industrial_case_studies/`
 
 ---
 
-## 🔍 Alur Pengerjaan Studi Kasus
-Setiap studi kasus akan mengikuti alur:
-1. Pemahaman masalah
-2. Pemahaman dan pembersihan data
+## 🔍 Case Study Workflow
+Each case study will follow the following flow:
+1. Problem understanding
+2. Data understanding and cleaning
 3. Exploratory Data Analysis (EDA)
-4. Analisis atau pemodelan (jika diperlukan)
-5. Insight dan rekomendasi bisnis
-
----
-
-## 🚀 Penutup
-Repository ini dibuat sebagai bagian dari proses belajar berkelanjutan untuk menjadi **Data Analyst yang siap kerja** dan berkembang ke arah **Data Scientist**, dengan fokus pada penerapan data di dunia industri nyata.
-
+4. Analysis or modeling (if necessary)
+5. Business insights and recommendations
