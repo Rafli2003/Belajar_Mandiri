@@ -6,7 +6,7 @@ The main focus of this repository is building a strong technical foundation, und
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Master the basic skills required for a Data Analyst
 - Prepare for the transition to Junior Data Scientist
 - Build a portfolio based on industry case studies
@@ -14,9 +14,9 @@ The main focus of this repository is building a strong technical foundation, und
 
 ---
 
-## 🧠 Learning Path
+## Learning Path
 
-### 1️⃣ Learn Basic SQL (Data Analyst Focus)
+### Learn Basic SQL (Data Analyst Focus)
 SQL is used to retrieve and process data from databases.
 
 Materials to be learned:
@@ -34,7 +34,7 @@ Objectives:
 
 ---
 
-### 2️⃣ Learn Basic Python (Data Analysis)
+### Learn Basic Python (Data Analysis)
 Python is used for data processing, analysis, and visualization.
 
 Materials to be learned:
@@ -52,7 +52,7 @@ Objectives:
 
 ---
 
-### 3️⃣ Learn Basic Excel (Data Analyst Tools)
+### Learn Basic Excel (Data Analyst Tools)
 Excel is used as a common analysis tool in the industry.
 
 Materials learned:
@@ -70,7 +70,7 @@ Objectives:
 
 ---
 
-## 📊 Case Studies & Industry Portfolio
+## Case Studies & Industry Portfolio
 After mastering the basics, learning continues with case studies that will serve as a **professional portfolio**, including:
 
 - **Banking Industry**
@@ -97,7 +97,7 @@ After mastering the basics, learning continues with case studies that will serve
 
 ---
 
-## 🔍 Case Study Workflow
+## Case Study Workflow
 Each case study will follow the following flow:
 1. Problem understanding
 2. Data understanding and cleaning
