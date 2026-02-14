@@ -1,1 +1,24 @@
-sadas
+# Excel for Data Analyst Learning
+
+This repository contains documentation and practice materials using Microsoft Excel to support Data Analyst work.
+
+The materials cover Excel usage in real working scenarios such as:
+- Adhoc requests
+- Basic reporting and analysis
+- Data cleaning and inspection
+- Data summarization and recapitulation
+
+---
+
+## Topics Covered
+- Formatting, filtering, sorting, freeze panes
+- Text functions (LEFT, RIGHT, MID, TRIM, etc.)
+- Logical functions (IF, IFS, IFERROR)
+- Aggregation functions (SUM, COUNT, AVERAGE, etc.)
+- SUMIFS & COUNTIFS
+- VLOOKUP, INDEX, MATCH
+- Pivot Tables
+
+---
+
+The goal of this repository is to strengthen data analysis fundamentals using Excel before moving to more advanced tools such as SQL, Python, or BI tools.
