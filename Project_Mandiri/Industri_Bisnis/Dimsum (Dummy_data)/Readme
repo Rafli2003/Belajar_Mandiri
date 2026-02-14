@@ -1,1 +1,28 @@
-dsadsa
+# Dimsum Sales Analysis (April – June)
+
+This project analyzes dimsum sales data from April to June using Microsoft Excel.
+
+The analysis focuses on understanding sales performance, product contribution, monthly trends, and transaction patterns.
+
+---
+
+## Analysis Includes
+- Total sales per product
+- Product revenue comparison
+- Weekend vs Weekday sales
+- Monthly turnover
+- Best-selling products per month
+- Monthly growth
+- Average transactions per day
+
+---
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- Basic aggregation and percentage calculations
+
+---
+
+The dataset used in this project is a dummy dataset created for learning purposes.
