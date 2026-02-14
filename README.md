@@ -66,7 +66,7 @@ Objectives:
 - Support daily data analysis in the workplace
 - Understand the practical flow of data analysis
 
-📁 Folder: `03_excel_basic/`
+📁 Folder: `Belajar_Mandiri/Excel & Spreadsheets`
 
 ---
 
