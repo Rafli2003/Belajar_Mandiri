@@ -1,1 +1,12 @@
-test
+# Data Analysis Project
+
+This repository contains files related to a data analysis project.
+
+The purpose of this project is to:
+- Process and clean raw data
+- Prepare structured datasets for analysis
+- Create simple data visualizations to support understanding
+
+Data cleaning and preparation were performed using Excel, while visualization was created using Power BI.
+
+This project is part of my learning and portfolio development in the field of Data Analysis.
