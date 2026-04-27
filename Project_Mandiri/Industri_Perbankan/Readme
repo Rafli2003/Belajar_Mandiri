@@ -1,12 +1,31 @@
-# Data Analysis Project
+# Data Analyst Project – Banking Industry
 
-This repository contains files related to a data analysis project.
+This folder contains data analysis case studies related to the **banking industry**.
 
-The purpose of this project is to:
-- Process and clean raw data
-- Prepare structured datasets for analysis
-- Create simple data visualizations to support understanding
+The purpose of this project is to practice analyzing financial/customer data and understand how data is used to support decision-making in the banking sector.
 
-Data cleaning and preparation were performed using Excel, while visualization was created using Power BI.
+---
 
-This project is part of my learning and portfolio development in the field of Data Analysis.
+## Objectives
+- Develop analytical thinking in a banking context
+- Understand customer and financial data analysis
+- Generate insights to support business decisions
+
+---
+
+## Scope of Work
+- Data cleaning and preprocessing
+- Data exploration and basic analysis
+- Simple data visualization
+
+---
+
+## Tools Used
+- Excel / Spreadsheet
+- Power BI
+- Python (optional)
+- SQL (optional)
+
+---
+
+This project is part of my learning journey in Data Analysis and will continue to be updated with new case studies.
