@@ -1,1 +1,29 @@
-tes
+# Customer Churn Analysis
+
+This project focuses on analyzing customer churn using a public dataset.
+
+The purpose of this project is to understand customer behavior and identify basic patterns related to churn.
+
+---
+
+## Scope of Work
+- Data cleaning and preprocessing using Excel
+- Checking duplicates and organizing the dataset
+- Creating simple visualizations using Power BI
+
+---
+
+## Files
+- `customer_churn.xlsx` → raw and cleaned dataset
+- `customer_churn.pbix` → Power BI dashboard file
+- `customer_churn.pdf` → dashboard export
+
+---
+
+## Tools Used
+- Excel
+- Power BI
+
+---
+
+This project is part of my data analysis learning and portfolio development.
