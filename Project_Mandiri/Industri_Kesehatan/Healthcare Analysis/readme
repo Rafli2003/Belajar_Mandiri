@@ -1,20 +1,23 @@
 # Healthcare Analysis
 
-This project focuses on analyzing customer churn using a public dataset.
+This project focuses on analyzing Healthcare dataset using a public dataset.
 
-The purpose of this project is to understand customer behavior and identify basic patterns related to churn.
+The purpose of this project is to understand patients behavior and identify basic patterns related to medical.
 
 ---
 
 ## Scope of Work
-- Data cleaning and preprocessing using Excel
+- Data cleaning and preprocessing using Pyton
 - Checking duplicates and organizing the dataset
 - Creating simple visualizations using Power BI
 
 ---
 
 ## Files
-- 
+- Healthcare-analyst.pbix
+- Healthcare-analyst.pdf
+- clean_healthcare_dashboard.csv
+- healthcare-analyst.ipynb
 
 ---
 
